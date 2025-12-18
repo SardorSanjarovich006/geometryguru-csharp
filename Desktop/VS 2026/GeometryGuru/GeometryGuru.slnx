@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="GeometryGuru.Aplication/GeometryGuru.Aplication.csproj" Id="a80179a1-1677-439a-a234-83952c91c7d8" />
   <Project Path="GeometryGuru.Client/GeometryGuru.Client.csproj" Id="36aa3486-4383-47a4-956c-a2df531b4e61" />
   <Project Path="GeometryGuru.Domain/GeometryGuru.Domain.csproj" Id="968c2faa-d30f-4a53-99fd-ddbe1bc8bac7" />
